@@ -3,5 +3,5 @@ A basic Redux course from Maximilian Schwarzmüller, i fully commented it so any
 
 Install any project with:
 npm install
-run any project with:
+Run any project with:
 npm start
